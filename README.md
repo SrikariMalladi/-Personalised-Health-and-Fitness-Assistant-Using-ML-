@@ -10,9 +10,9 @@ This project aims to develop a personalized health and fitness assistant using m
 - **Contribution**: Our contributions include implementing machine learning algorithms, evaluating their performance, and refining the personalized recommendations.
 
 #### Contributors
-- Charitaya Madala
-- Deepak Tallapudi
 - Srikari Malladi
+- Charitavya Madala
+- Deepak Tallapudi
 
 #### Files Included
 - **Project File**: Contains the code implementation, dataset, and documentation.

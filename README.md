@@ -9,11 +9,6 @@ This project aims to develop a personalized health and fitness assistant using m
 - **Machine Learning Algorithms**: Different machine learning algorithms were employed to analyze the data and make personalized recommendations.
 - **Contribution**: Our contributions include implementing machine learning algorithms, evaluating their performance, and refining the personalized recommendations.
 
-#### Contributors
-- Srikari Malladi
-- Charitavya Madala
-- Deepak Tallapudi
-
 #### Files Included
 - **Project File**: Contains the code implementation, dataset, and documentation.
 - **Report**: Detailed report explaining the methodology, results, and conclusions of the project.
